@@ -1,3 +1,10 @@
+Name: Oguntokun Ayomide Isaac
+Banner ID: B00900743
+Course: CSCI 4177/5709 (Advanced Topics in Web Development)
+Class Type: Laboratory
+Website Link: https://mern-stacksession.netlify.app/
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
